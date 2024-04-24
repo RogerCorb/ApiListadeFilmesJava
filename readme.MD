@@ -1,19 +1,22 @@
 
-<img src="/imagemCabecalho.PNG"  width=100% alt="Cabeçalho " title="Banner Codifica Edu " >
+<img src="/imagemCabecalho.PNG"  width=100% alt="Banner Api OmDb" title="Banner Api OmDb " >
   
 
 
-# Exercícios do programa Dev FullStack +PraTi
+# Api em desenvolvimento no programa Dev Back-end Java ONE(Oracle Next Education)
 
-Estes exercícios visam introduzir lógica de programação e conhecimentos básicos sobre javascript, fazem 
-parte do programa de formação DEV FULLSTACK que está sendo ministrado pela organização +PraTi.
+Este programa está sendo contruído para consumir a API de filmes OmDb. Nele estamos realizando
+conexão via API utilizando http client e http response, classe record, file write , conversão
+e persistencia de dados Json, utilizamos também a biblioteca Gson do google. Tem sido gratifi-
+cante trabalhar com esta parte backend JAVA, já havia trabalhado antes com backend em javascript 
+e gostando demais de revisitar conceitos agora utilizando JAVA. 
 
 
 ## Hospedagem / Deploy 
 
-Para rodar estes projetos vc precisa baixar o repositorio em sua máquina, abrir a pasta no seu vscode , 
-e rodar o comando npm i para que sejam instaladas as extensões node necessarias para rodar os arquivos
-e depois digitar no seu terminal node exercicio01.js e o exercício irá funcionar.
+Para rodar estes projetos vc precisará fazer um fork ou clone do reposítorio , baixar a dependencia
+Gson.jar e configurar na pasta dependencias, caso não esteja usando maven. e depois é só rodar o arquivo
+PrincipalComHttpApi irá funcionar.
 
 ## Relatar um problema 
 
